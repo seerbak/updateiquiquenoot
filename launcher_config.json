@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/seerbak/updateiquiquenoot/releases/download/untagged-e2fbae6d44d2e546f059/iquiquenoot.zip",
+	"newClientUrl" : "https://github.com/seerbak/updateiquiquenoot/releases/download/1.0v/iquiquenoot.zip",
 	"clientExecutable": "client.exe"
 }
